@@ -1,0 +1,16 @@
+4. Which type of adverstisement has most impact (Display, Feature, Flyer) ?
+5. Are Price Reduction schemes boosting sales?
+6. Is there any seasonal demand? - do on 1 brand
+7. 
+
+1. What are the most, least profitable products in each brand?
+2. What impacts the demand of a product?
+3. Who are the most, least profitable customers for each brand?
+7. Which type of outlet stores are selling more in metros, towns and villages?
+8. Which size(s) of products are selling more? How is it related to family size?
+9. Conjoint analysis to identify market shares
+
+*/ Grouping /*
+1. Grouping by store and then customers can be done - in a week or throughout overall period
+2. Grouping by brand and then customers can be done - to identify profitable, least profitable customers
+3. Grouping by customer in purchases data can be done - to understand demographics

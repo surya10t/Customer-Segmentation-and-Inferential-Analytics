@@ -1,0 +1,4 @@
+1. weighted_average_display will not be binary anymore. how?
+2. what is sales? units or dollar amount?
+3. what should be the Y var? sum of sales of all UPCs in a store and week?
+4. I'm getting high parameter estimates. What should I do?

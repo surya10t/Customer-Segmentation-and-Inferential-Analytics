@@ -1,0 +1,3 @@
+Within Entity (FIXONE):
+1. Display when combined with Price Reduction schemes provides additional boost to sales.
+2. Displaying Kleenex products significantly reduces the sales of Puffs products, within the store.
